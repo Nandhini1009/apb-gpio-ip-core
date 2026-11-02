@@ -1,0 +1,9 @@
+# ModelSim / Questa output
+work/
+transcript
+vsim.wlf
+*.mpf
+*.cr.mti
+modelsim.ini
+# editor backups
+*.bak
